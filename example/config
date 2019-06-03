@@ -1,0 +1,12 @@
+[gtkd]
+	arch=gtkd
+	github-tags=gtkd-developers/GtkD
+[libratbag]
+	arch=libratbag
+	github-tags=libratbag/libratbag
+[piper]
+	arch=piper
+	github-tags=libratbag/piper
+[pulseeffects]
+	arch=pulseeffects
+	github-tags=wwmm/pulseeffects
